@@ -1,6 +1,6 @@
-# [SkuaBackgrounds](https://github.com/SharpTheNightmare/SkuaBackgrounds)
+# [SkuaBackgrounds](https://github.com/auqw/SkuaBackgrounds)
 
-[Download this repo](https://github.com/SharpTheNightmare/SkuaBackgrounds/archive/refs/heads/main.zip) OR choose an SWF file in the repository and put it in `~/Documents/Skua/Themes`
+[Download this repo](https://github.com/auqw/SkuaBackgrounds/archive/refs/heads/main.zip) OR choose an SWF file in the repository and put it in `~/Documents/Skua/Themes`
 # Rules:
 1. NO **NSFW** (Nude, lewd, derogatory, and offensive), this will not be tolerated, and we may ignore future PRs
 2. NO **POLITICS** This is a video game, we don't care about your political views
