@@ -1,4 +1,4 @@
-# [SkuaBackgrounds](https://github.com/auqw/SkuaBackgrounds)
+# [Skua Backgrounds](https://github.com/auqw/SkuaBackgrounds)
 
 [Download this repo](https://github.com/auqw/SkuaBackgrounds/archive/refs/heads/main.zip) OR choose an SWF file in the repository and put it in `~/Documents/Skua/Themes`
 # Rules:
