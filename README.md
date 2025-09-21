@@ -2,7 +2,12 @@
 
 [Download this repo](https://github.com/auqw/SkuaBackgrounds/archive/refs/heads/main.zip) OR choose an SWF file in the repository and put it in `~/Documents/Skua/Themes`
 # Rules:
-1. NO **NSFW** (Nude, lewd, derogatory, and offensive), this will not be tolerated, and we may ignore future PRs
+1. NO **NSFW** this includes, but is not limited to:
+   - Nudity
+   - Lewd
+   - Derogatory
+   - Offensive
+   - This will not be tolerated, and we may ignore future PRs
    - See the [NSFW Git](https://github.com/auqw/SkuaBackground-NSFW)
 3. NO **POLITICS** This is a video game, we don't care about your political views
 4. Naming Convention: 
