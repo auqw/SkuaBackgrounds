@@ -29,4 +29,4 @@ For editing the [Baseplate.swf](./BASEPLATE.swf) with your own image, you need t
 If you want a plain colored background, make an image 4x4 in pixels and put the color you want, then do the steps above. It **does not** have to follow the 16:9 aspect ratio
 
 
-Tutorial Video:![explorer_MKiczB8MIW](https://imgur.com/Bc7HnGe)
+Tutorial Video:![explorer_MKiczB8MIW](https://i.imgur.com/Bc7HnGe.gif)
