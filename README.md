@@ -8,7 +8,7 @@
    - Derogatory
    - Offensive
    - This will not be tolerated, and we may ignore future PRs
-   - See the [NSFW Git](https://github.com/auqw/SkuaBackground-NSFW)
+      - See the [NSFW Git](https://github.com/auqw/SkuaBackground-NSFW)
 3. NO **POLITICS** This is a video game, we don't care about your political views
 4. Naming Convention: 
  - Not Accepted: `73ufhehxw.swf` > Accepted: `ProperName.swf` E.G., If your PR says `ChaosQueenBeleen.swf` but the file is named `ghasdh123.swf`, we will make you change it before merging
